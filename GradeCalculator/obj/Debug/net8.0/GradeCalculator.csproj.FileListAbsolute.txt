@@ -12,3 +12,4 @@ C:\Users\ivyow\DCIT318\dcit318-assignment1-10985154\GradeCalculator\obj\Debug\ne
 C:\Users\ivyow\DCIT318\dcit318-assignment1-10985154\GradeCalculator\obj\Debug\net8.0\GradeCalculator.pdb
 C:\Users\ivyow\DCIT318\dcit318-assignment1-10985154\GradeCalculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
 C:\Users\ivyow\DCIT318\dcit318-assignment1-10985154\GradeCalculator\obj\Debug\net8.0\ref\GradeCalculator.dll
+C:\Users\ivyow\DCIT318\dcit318-assignment1-10985154\GradeCalculator\obj\Debug\net8.0\GradeCalculator.sourcelink.json
